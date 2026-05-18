@@ -1,0 +1,23 @@
+.text{
+    font-family: arial;
+    font-size: 30px;
+    font-weight: bold;
+  }
+   body{
+        background-color: black;
+        color: white;
+        font-family: Arial;
+        margin-left: 20px;
+      }
+  .move-icon{
+   height: 50px;
+  }
+  .edit{
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 60px;
+    height: 120px;
+    width: 120px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
